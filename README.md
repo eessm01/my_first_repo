@@ -1,4 +1,4 @@
 # my_first_repo
 My first repository from Javascript School
 
-This is a change on muy README
+This is a change on my README
